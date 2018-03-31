@@ -1,6 +1,6 @@
 # Decimal converter
 
-Samle code of deciaml convertions to binary.
+Sample code for deciaml convertions: to binary (dec_to_binary.py) or any base (decimal_converter.py)
 
 Usefull links:
 - https://codereview.stackexchange.com/questions/134154/decimal-to-binary-algorithm
